@@ -4,10 +4,10 @@
 <h1 align="center"> Projects </h1>
 <p><b>Projects Completed:</b></p>
   <p> <a href = "https://kobeshelby.com/"> Portfolilo </a> -My portfolilo showcases my recent projects i've worked on and demostrates my skills as developer.   
-  <p> <a href = "https://github.com/Kobe040102/Calculator-Project"> Calculator </a> -Basic Calculator that  
+  <p> <a href = "https://github.com/Kobe040102/Calculator-Project"> Calculator </a> -Basic Calculator created with HTML, CSS, and JavaScript for simple arithmetic    operations. 
   <br></br>
   <p><b>Still in progress...</b></p>
-  <p> <a href = "
+  <p> <a href = "https://github.com/Kobe040102/ShoeStore"> Shoe Store </a> -
   
     
  
