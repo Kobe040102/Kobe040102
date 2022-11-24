@@ -3,7 +3,7 @@
   <p> <a href = "https://kobeshelby.com/"> Portfoilio</a> <a href = "https://www.linkedin.com/in/kobe-shelby-032863128/"> Linkedin </a> <a href = "https://twitter.com/Kobe04Shelby"> Twitter </a></p>
 <h1 align="center"> Projects </h1>
 <p><b>Projects Completed:</b></p>
-  <p> <a href = "https://kobeshelby.com/"> Portfolilo </a> -My portfolilo showcases my recent projects i've worked on and demostrates my skills as developer.   
+  <p> <a href = "https://github.com/Kobe040102/Front-end-Portfolio"> Portfolilo </a> -My portfolilo showcases my recent projects i've worked on and demostrates my skills as developer.   
   <p> <a href = "https://github.com/Kobe040102/Calculator-Project"> Calculator </a> -Basic Calculator created with HTML, CSS, and JavaScript for simple arithmetic    operations. 
   <br></br>
   <p><b>Still in progress...</b></p>
