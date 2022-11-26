@@ -7,7 +7,7 @@
   <p> <a href = "https://github.com/Kobe040102/Calculator-Project"> Calculator </a> -Basic Calculator created with HTML, CSS, and JavaScript for simple arithmetic    operations. 
   <br></br>
   <p><b>Still in progress...</b></p>
-  <p> <a href = "https://github.com/Kobe040102/ShoeStore"> Shoe Store </a> -A Shoe market that presents it's clients with a variety of shoes and sizes. Users are able to
+  <p> <a href = "https://github.com/Kobe040102/ShoeStore-Project-React"> Shoe Store </a> -A Shoe market that presents it's clients with a variety of shoes and sizes. Users are able to
   add products to their shopping carts and proceed to transaction.
   
     
